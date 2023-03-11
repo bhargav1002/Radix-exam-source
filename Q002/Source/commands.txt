@@ -1,0 +1,3 @@
+Step 1: Run the command to run the docker-compose file :- "docker compose up"
+Step 2: Run the command to tag the image :- "docker tag node:latest bhargav1002/mydockerexam2:latest"
+Step 3: Run the command to push the image :- "docker push bhargav1002/mydockerexam2:latest"
